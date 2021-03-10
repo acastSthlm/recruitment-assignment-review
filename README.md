@@ -2,8 +2,7 @@
 
 ## Premise
 
-Acast is growing fast and we are hiring a lot of new people. Being part of the development team, we need your help to review a code assigment from a potential candidate.
-The code works in practice, but the solution is questionable and there are many issues and inconsistencies.
+Acast is growing fast and we are hiring a lot of new people. Being part of the development team, we need your help to review a code assigment from a potential candidate. The code _works in practice_, but the solution is questionable and has a lot of room for improvement.
 
 Prepare some notes for a code review together with your team.
 
@@ -17,5 +16,5 @@ If you have any doubts or questions, feel free to bring them up at any time befo
 
 ## Provided materials
 
-- The readme for the candidate's assignment [can be found here](https://github.com/acastSthlm/recruitment-assignment-review/blob/master/README_ASSIGNMENT.md).
-- The PR submitted by the candidate [can be found here](https://github.com/acastSthlm/recruitment-assignment-review/pull/1).
+- The readme for the candidate's assignment [can be found here](https://github.com/acast-tech/recruitment-assignment-review/blob/master/README_ASSIGNMENT.md).
+- The PR submitted by the candidate [can be found here](https://github.com/acast-tech/recruitment-assignment-review/pull/1).
